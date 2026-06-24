@@ -6,3 +6,4 @@ pandas
 sagemaker
 argparse
 ipykernel
+mlflow
